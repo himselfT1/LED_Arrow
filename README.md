@@ -1,6 +1,11 @@
 # LED Arrow System
 
 The **LED Arrow** project is a system based on WS2812B LEDs, powered by a 1S4P battery pack (one serial, four parallel 18650 cells) and controlled by the STM32L052K8T6 microcontroller.
+### 3D TOP
+![3D View 1](docs/3D_view1.png)
+
+### 3D BOTTOM
+![3D View 2](docs/3D_view2.png)
 
 ## 📌 Main Features
 
