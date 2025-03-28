@@ -23,4 +23,7 @@ The **LED Arrow** project is a system based on WS2812B LEDs, powered by a 1S4P b
 
 - Adding new program of lighting modes.  
 - Power consumption optimization.  
-- Bluetooth/Wi-Fi control integration.  
+- Bluetooth/Wi-Fi control integration.
+
+  ### что ха сигма
+  
